@@ -1,5 +1,35 @@
 # 💫 About Me:
-react and ai using deep learning and machine learning
+🔹 Abdelrahman Atito
+Dreamer turning ideas into reality • CS Student • AI & Web Enthusiast • TEDx PR Volunteer
+
+🎓 Who I Am
+I’m currently a Computer Science student at the Egyptian Chinese University (ECU), deeply passionate about artificial intelligence, web development, and public speaking. Proudly serving in Public Relations for TEDx ECU, I believe in the power of communication and community-driven innovation. 
+abdulrahman-rashwan.org
++9
+linkedin.com
++9
+instagram.com
++9
+
+🚀 What Drives Me
+AI Lover & Aspiring Engineer: Enthralled by machine learning and eager to build intelligent systems.
+
+Hackathon Devotee: Actively participated in the GDG “Build with AI” hackathon—immersed in 24 hours of coding, learning, and collaborative problem-solving. Although we didn’t win, the experience was invaluable. 
+linkedin.com
+
+Storyteller & Networker: Through my TEDx role, I’ve honed skills in communication, event coordination, and creative outreach.
+
+🧠 Strengths & Mindset
+Curiosity-Driven: Always learning—whether experimenting with AI, exploring web frameworks, or engaging in tech communities.
+
+Team-Oriented: I thrive on collaboration, enjoying hackathons and group initiatives that challenge and inspire.
+
+Resilient & Growth-Focused: I view every experience—win or lose—as fuel to improve and expand my horizons.
+
+📈 Looking Ahead
+With my academic background, hackathon experiences, and active role in TEDx, I’m eager to contribute to impactful tech projects—particularly those blending AI, web development, and effective communication.
+
+
 
 
 ## 🌐 Socials:
